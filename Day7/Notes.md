@@ -1,0 +1,4 @@
+- Swift requires using argument labels in the function call `myFunc(arg: "John Doe")`.
+- `Return` keyword can be omitted in single line functions.
+- Function can return multiple values by using tuples `func getPerson() -> (name: String, age: Int)` as return type.
+- Parametr labels can be omitted by using `_` or changed by using `externalName internalName: Type`.
