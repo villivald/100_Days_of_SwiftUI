@@ -20,4 +20,6 @@ My progress diary:
 
 [Day 7](./Day7) – Functions, parameters, and return values (21.02.24)
 
-[Day 8](./Day7) – Default values, throwing functions, and checkpoint 4 (24.02.24)
+[Day 8](./Day8) – Default values, throwing functions, and checkpoint 4 (24.02.24)
+
+[Day 9](./Day9) – Closures, passing functions into functions, and checkpoint 5 (24.02.24)
