@@ -19,3 +19,5 @@ My progress diary:
 [Day 6](./Day6) – Loops, summary, and checkpoint 3 (20.02.24)
 
 [Day 7](./Day7) – Functions, parameters, and return values (21.02.24)
+
+[Day 8](./Day7) – Default values, throwing functions, and checkpoint 4 (24.02.24)
