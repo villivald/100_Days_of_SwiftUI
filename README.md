@@ -1,3 +1,4 @@
+
 ![logo](./images/logo.webp)
 # 100 Days of SwiftUI
 [hackingwithswift.com](https://www.hackingwithswift.com/100/swiftui)
@@ -23,3 +24,5 @@ My progress diary:
 [Day 8](./Day8) – Default values, throwing functions, and checkpoint 4 (24.02.24)
 
 [Day 9](./Day9) – Closures, passing functions into functions, and checkpoint 5 (24.02.24)
+
+[Day 10](./Day10) – Structs, computed properties, and property observers (27.02.24)

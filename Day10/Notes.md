@@ -1,0 +1,4 @@
+- Structs are used to create custom data types out of several small types.
+- Can contain methods (also `mutating` methods) and computed properties (getters and setters).
+- `newValue` is the default name for the new value in a setter.
+- Swift has built-in observer properties: `willSet` and `didSet`.
