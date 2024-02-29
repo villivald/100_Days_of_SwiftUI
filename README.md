@@ -26,3 +26,5 @@ My progress diary:
 [Day 9](./Day9) – Closures, passing functions into functions, and checkpoint 5 (24.02.24)
 
 [Day 10](./Day10) – Structs, computed properties, and property observers (27.02.24)
+
+[Day 11](./Day11) – Access control, static properties and methods, and checkpoint 6 (29.02.24)

@@ -1,0 +1,3 @@
+- Access control can be obtained in structs by using `private`, `fileprivate` and `private(set)` keywords.
+- `static` keyword is used to create struct level properties and methods. The value is not tied to an instance of the struct, but to the struct itself.
+- `Self` with capital `S` is used to refer to the type of the current instance. `self` with lowercase `s` is used to refer to the current instance.
