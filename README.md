@@ -1,4 +1,3 @@
-
 ![logo](./images/logo.webp)
 # 100 Days of SwiftUI
 [hackingwithswift.com](https://www.hackingwithswift.com/100/swiftui)
@@ -28,3 +27,5 @@ My progress diary:
 [Day 10](./Day10) – Structs, computed properties, and property observers (27.02.24)
 
 [Day 11](./Day11) – Access control, static properties and methods, and checkpoint 6 (29.02.24)
+
+[Day 12](./Day12) – Classes, inheritance, and checkpoint 7 (01.03.24)
